@@ -1,0 +1,22 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "count_unique_numbers_Kolihay"
+version = "0.0.1"
+authors = [
+  { name="Kolihay", email="ogonkamen22@gmail.com" },
+]
+description = "A small example package"
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/squ1zyy/Task_5"
+"Bug Tracker" = "https://github.com/squ1zyy/Task_5/issues"
